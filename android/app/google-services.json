@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "680708007687",
+    "firebase_url": "https://benchmark-chat.firebaseio.com",
+    "project_id": "benchmark-chat",
+    "storage_bucket": "benchmark-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680708007687:android:f0be37fe96f2da03",
+        "android_client_info": {
+          "package_name": "com.somoglobal.badhrichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680708007687-jb5jdh39qt4p8eo47nmonl8fjaepht5t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "680708007687-6kpcnln9fitr1p4g063f4p3j8eettqnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.somoglobal.badhrichat",
+            "certificate_hash": "0018e03fd15d697c404c4db4a26b0178c4fb960e"
+          }
+        },
+        {
+          "client_id": "680708007687-fqjhoi5dl8efebsvjbfd83ncafs948dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3xK-qrhh8EmICoaK1YSzUutheDBGGADI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680708007687-jb5jdh39qt4p8eo47nmonl8fjaepht5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680708007687-m0jmb63m6vasejofu6974n69r5knhutr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.somoglobal.badhrichat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680708007687:android:6d2d02b6c85dfe2b",
+        "android_client_info": {
+          "package_name": "com.fbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680708007687-jb5jdh39qt4p8eo47nmonl8fjaepht5t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "680708007687-e506o0fhckob9vr04hv81hoet81uvkgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbchat",
+            "certificate_hash": "7470495f4f85e7043177188e82522b39b6243c33"
+          }
+        },
+        {
+          "client_id": "680708007687-fqjhoi5dl8efebsvjbfd83ncafs948dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3xK-qrhh8EmICoaK1YSzUutheDBGGADI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680708007687-jb5jdh39qt4p8eo47nmonl8fjaepht5t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680708007687-m0jmb63m6vasejofu6974n69r5knhutr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.somoglobal.badhrichat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
